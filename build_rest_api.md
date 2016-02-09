@@ -1,0 +1,2 @@
+  - [Guide du débutant API rest par Andrew Havens](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api/)
+  -
