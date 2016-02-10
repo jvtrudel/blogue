@@ -110,3 +110,5 @@ Blogue professionnel orienté web.
  - gui (visuel + évènements) facile et bien établie avec css et html
  - interconnectivité
  - outils prêts pour le sémantique
+ - performance serveur
+    - [utilisation de la mémoire cache avec tmpfs](http://eddmann.com/posts/storing-php-sessions-file-caches-in-memory-using-tmpfs/)

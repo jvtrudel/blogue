@@ -1,2 +1,2 @@
   - [Guide du débutant API rest par Andrew Havens](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api/)
-  -
+  - [secure restful api with oauth2 par jonathan leblanc](http://fr.slideshare.net/jcleblanc/securing-restful-apis-using-oauth-2-and-openid-connect)

@@ -2,6 +2,10 @@
 
   - Pourquoi utiliser power shell comme terminal sous windows?
 
+# Script powershell
+
+  - [How to Write Your First Powershell Script par Kris Powell](http://www.adminarsenal.com/admin-arsenal-blog/powershell-how-to-write-your-first-powershell-script/)
+
 # Info brute
 
 
