@@ -6,6 +6,10 @@
 
   - [How to Write Your First Powershell Script par Kris Powell](http://www.adminarsenal.com/admin-arsenal-blog/powershell-how-to-write-your-first-powershell-script/)
 
+# Robocopy
+
+  - [Robocopy syntax par Techjourney](https://techjourney.net/robocopy-syntax-command-line-switches-and-examples/)
+
 # Info brute
 
 
