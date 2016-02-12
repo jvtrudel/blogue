@@ -1,4 +1,11 @@
 # Questions
+
+  - changer le remote?
+
+```
+git remote set-url origin <remote-url>
+```
+
 ## Comment configurer ceci ou cela
 
 

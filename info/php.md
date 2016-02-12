@@ -1,1 +1,2 @@
   - [standard autoload psr-4](http://www.php-fig.org/psr/psr-4/)
+  - [liste des opérateurs par w3school](http://www.w3schools.com/php/php_operators.asp)
