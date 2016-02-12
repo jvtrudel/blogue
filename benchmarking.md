@@ -1,0 +1,1 @@
+  - [php the right way par Josh Lockhart](http://www.phptherightway.com/)
