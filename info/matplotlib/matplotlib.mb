@@ -1,0 +1,14 @@
+### reinitialiser un objet matplotlib
+
+    - [Avec pylab](http://stackoverflow.com/questions/8213522/matplotlib-clearing-a-plot-when-to-use-cla-clf-or-close)
+
+    plt.clf()
+
+
+### embedding mathplot figure in ipython
+
+[see this interesting notebook example](http://nbviewer.ipython.org/github/adrn/ipython/blob/1.x/examples/notebooks/Part%203%20-%20Plotting%20with%20Matplotlib.ipynb)
+
+    %matplotlib inline
+
+
