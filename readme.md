@@ -2,7 +2,7 @@
 
 Blogue professionnel orienté web.
 
-## Objectifs généraux
+## Objectifs
 
   - Démonter mes compétences
   - établir mes spécialités

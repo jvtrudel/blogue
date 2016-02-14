@@ -1,1 +1,4 @@
   - [php the right way par Josh Lockhart](http://www.phptherightway.com/)
+  - [sous forme de livre comme  brad frost](http://atomicdesign.bradfrost.com/table-of-contents/)
+  - [comme medium](https://medium.com/)
+    - [example d'article avec medium](https://medium.com/@amywestervelt/having-it-all-kinda-sucks-91ea302736e4#.j7xfwq9he)
