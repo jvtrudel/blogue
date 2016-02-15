@@ -1,0 +1,4 @@
+  - [Les 200 ranking factors résumés par Julien Devoir](http://www.growthhacking-france.com/les-200-facteurs-de-referencement-google-en-2014/)
+  - [Search engine ranking factors. Recherche par moz](https://moz.com/search-ranking-factors)
+  - [Guide de démarrage Google - optimisation des moteurs de recherches par google](https://static.googleusercontent.com/media/www.google.com/fr//intl/fr/webmasters/docs/search-engine-optimization-starter-guide-fr.pdf)
+  - [Étude sur les ranking factors de Google par SearchMetrics](http://www.searchmetrics.com/knowledge-base/ranking-factors/)
