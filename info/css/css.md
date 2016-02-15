@@ -1,3 +1,8 @@
+# Sélecteurs
+
+  - [Description des sélecteurs par W3C](https://www.w3.org/TR/CSS21/selector.html%23id-selectors)
+  - [description des sélecteurs par MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors)
+  - [30 sélecteurs à connaitre sur envatoTuts+ ](http://code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 
 # Normalisation

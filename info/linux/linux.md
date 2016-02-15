@@ -1,5 +1,33 @@
-Linux
-=====
+# Ressource
+
+  - [The art of Linux programming](http://www.catb.org/esr/writings/taoup/html/)
+
+
+# Administration système
+
+## Gestion des utilisateurs
+
+### Création d'utilisateurs
+
+#### useradd
+
+  - [documentation ubuntu](https://doc.ubuntu-fr.org/useradd)
+
+### Inspecter les utilisateurs
+
+  - [avec emphase sur utilisateurs avec privilèges *root* sur serverFault](http://serverfault.com/questions/208347/how-do-i-list-all-users-with-root)
+
+### Détruire un compte utilisateur
+
+  - [sur nixCraft](http://www.cyberciti.biz/faq/linux-remove-user-command/)
+
+### Changer d'utilisateur dans le terminal
+
+  - [sur unix stackexchange](http://unix.stackexchange.com/questions/3568/how-to-switch-between-users-on-one-terminal)
+
+### Ajouter les permission sudo à la création d'un utilisateur
+  - [sur ask ubuntu](http://askubuntu.com/questions/7477/how-can-i-add-a-new-user-as-sudoer-using-the-command-line)
+
 
 Problème d'espace sur le disque /boot
 -------------------------------------
@@ -30,5 +58,3 @@ Shared Memory
 [Use the command ipcs -lm to see the limit](http://www.rwitkop.com/VistA/ConfigureSysctl4Cache.html)
 
 [ulimit -a ; ulimit -aH](https://groups.google.com/forum/?hl=fr#!searchin/gamess/max$20shared$20memory/gamess/XWmyMSfyKjU/Jy8OJ4lpybYJ)
-
-
