@@ -2,6 +2,10 @@
 
   - changer le remote?
 
+## reseter le contenu d'un seul fichier
+
+  - [git: revert (reset) a single file par Jonathan Dance](http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html)
+
 ```
 git remote set-url origin <remote-url>
 ```

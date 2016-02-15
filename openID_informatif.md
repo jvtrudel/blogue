@@ -10,7 +10,9 @@ type: informatif
   - [liste de librairies par openID Foundation](http://openid.net/developers/libraries/)
 
 
+# Exemples d'implementation
 
+  - [projet exemple codeIgniter + oauth2-server-php par mistymagich](https://github.com/mistymagich/codeigniter-oauth2-sample)
 
 # Termes à traduire
 
