@@ -1,16 +1,17 @@
 # Description
 
-Blogue professionnel orienté web.
+Référence professionnelle pour spécialistes des technologies web et du développement openSource.
 
 ## Objectifs
 
-  - Démonter mes compétences
-  - établir mes spécialités
+  - Démonter ma compétence avec les technologies web.
+  - Compiler de l'information à propos des technologies web
+  - Écrire des articles sur une base journalière
 
 
 
 
-## Stratégie
+# Stratégie et style de rédaction
 
   - Déterminer des axes de spécialité
   - 4 types de textes
@@ -33,19 +34,11 @@ Blogue professionnel orienté web.
  - orienté google
  - autres référenceurs ou agrégateurs de contenu?
 
+# Flux de données
 
-
-# Plan du Blogue
-
-  - Conseils stratégiques pour la conceptoin de site web
-    - Devenez fournisseur d'identité (openID connect)
-
-
-  - Conseils techniques pour la réalisation d'un site web
-    - Utilisez openID connect pour le 'login' ou 'sign-in' de votre site web (openID connect)
-    - Délégué la gestion de mot de passe utilisateur avec openID connect (openID connect)
-    - Mettre en place un service de gestion de mot de passe utilisateur avec openID connect (openID connect)
-
-
-  - Analyses subjectives: faites des choix en fonction de **vos** besoins
-    - Pourquoi j'ai choisi d'utiliser openID connect (openID connect)
+  1. Mettre info brute dans `info/xxx/info.md`
+  - Organiser l'information dand les répertoires  `info/xxx`
+  - Utiliser l'information organiser pour créer des articles informatifs ou techniques à mettre dans `site_src`
+  - Utiliser info pour monter des dossiers d'expertise dans  `expertise`
+  - Utiliser les dossiers d'expertise pour écrire des articles de stratégie ou d'analyse à mettre dans `site_src`
+  - Produire le `site` à partir de `site_src`
