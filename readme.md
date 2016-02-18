@@ -42,3 +42,18 @@ Référence professionnelle pour spécialistes des technologies web et du dével
   - Utiliser info pour monter des dossiers d'expertise dans  `expertise`
   - Utiliser les dossiers d'expertise pour écrire des articles de stratégie ou d'analyse à mettre dans `site_src`
   - Produire le `site` à partir de `site_src`
+
+
+# Sujets exclus
+
+## Réflexion...
+
+  - inclure l'aspect responsive dans frontEndLab?
+
+## expertise
+
+  - front-end => frontEndLab
+
+##info
+
+  - codeIgniter => demoCodeIgniter
