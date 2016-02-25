@@ -1,4 +1,11 @@
-# Qestions
+# atomic
+
+## command line argument
+
+  - [Passing a variable to a powershell script via command line sur stackoverflow](http://stackoverflow.com/questions/16426688/passing-a-variable-to-a-powershell-script-via-command-line)
+  - [PowerShell ABC's - P is for Parameters par Joe Pruitt sur devCentral](https://devcentral.f5.com/articles/powershell-abcs-p-is-for-parameters)
+
+# Questions
 
 ## Sensible à la case?
 
