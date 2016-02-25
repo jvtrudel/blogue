@@ -1,4 +1,6 @@
+# Alternatives
 
+  - [svg fallbacks guide, Alternativea aux navigateurs qui ne prennent pas en charge le svg ](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/)
 
 # Mobile
 
@@ -7,7 +9,7 @@
 # Layout
 
   - [Design pattern by PixelWhip](http://pixelwhip.github.io/layout-design-patterns/)
-
+  - [Apprendre les mise en page CSS](http://fr.learnlayout.com/)
 
 # Font responsiveness
 
