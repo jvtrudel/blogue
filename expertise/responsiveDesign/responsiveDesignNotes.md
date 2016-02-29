@@ -1,4 +1,9 @@
 
+# Queries
+
+## Comment choisir les meilleurs valeurs de max/min-width
+
+  -[sur stackoverflow](http://stackoverflow.com/questions/13637106/what-are-the-best-width-ranges-for-media-queries) 
 
 # Mobile
 
