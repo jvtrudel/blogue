@@ -1,0 +1,3 @@
+  - [importation de branche distantes](http://stackoverflow.com/questions/67699/clone-all-remote-branches-with-git)
+  - [submodules pour git dans git](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+  - [ branches](http://stackoverflow.com/questions/1777854/git-submodules-specify-a-branch-tag)
