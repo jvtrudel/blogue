@@ -1,0 +1,13 @@
+#! /bin/bash
+
+
+if [[ $1 = "help" ]]; then
+
+  echo "wiz  - Outil d'exécution des commandes propres à un projet."
+
+fi
+
+
+if [[ $1 = "build.doc" ]]; then
+  echo "La commande build.doc n'est pas encore implémentée."
+fi

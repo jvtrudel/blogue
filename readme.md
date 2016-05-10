@@ -1,59 +1,60 @@
 # Description
 
-Référence professionnelle pour spécialistes des technologies web et du développement openSource.
+Références professionnelles pour le développement libre.
 
 ## Objectifs
 
-  - Démonter ma compétence avec les technologies web.
-  - Compiler de l'information à propos des technologies web
+  - Compiler de l'information à propos des technologies numériques
+  - Rendre réutilisable les recherches réaliser en cours de travail
   - Écrire des articles sur une base journalière
 
+## Méthodologie
+
+  - Structurer l'information dans des fichiers yml
+  - Adopter une convention de classement
+  - Appliquer des scripts et des templates pour générer des fichiers lisibles
 
 
-
-# Stratégie et style de rédaction
+## Stratégie et style de rédaction
 
   - Déterminer des axes de spécialité
   - 4 types de textes
-    - Stratégiques/conception web
-    - Techniques/réalisation web
+    - Stratégiques ou texte à propos de la conception
+    - Techniques ou à propos de la réalisation de projet ou de la résolution de problèmes concrets
     - Analyse subjective: pourquoi je préfère ceci ou cela
-    - Informatif
+    - Informatif: comment ça marche
   - Faire des renvois entre stratégique/technique/analyse/informatif
 
-## tags (référencement intra-site)
-  - définir une convention (format) d'écriture de tags
-  - utiliser des tags pour le référencement intra-blogue
-  - utiliser les tags pour construire un réseau de référence qui aidera le lecteur à trouver ce qui correspond le mieux à ses besoins
-  - Utiliser les tags de manière opaque (pas d'affichage des tags)
+## Analyse multi-contextuelle
+
+  - À partir des informations de base structurer, générer un contenu spécialisé en fonction de la résolution d'un problème particulier.
+  - Chaque problème constitut un contexte.
 
 
+## Analyse lexicale et conceptuelle
 
-## keywords (référencement externe)
  -  Recherche lexicale et mots clefs
- - orienté google
- - autres référenceurs ou agrégateurs de contenu?
-
-# Flux de données
-
-  1. Mettre info brute dans `info/xxx/info.md`
-  - Organiser l'information dand les répertoires  `info/xxx`
-  - Utiliser l'information organiser pour créer des articles informatifs ou techniques à mettre dans `site_src`
-  - Utiliser info pour monter des dossiers d'expertise dans  `expertise`
-  - Utiliser les dossiers d'expertise pour écrire des articles de stratégie ou d'analyse à mettre dans `site_src`
-  - Produire le `site` à partir de `site_src`
 
 
-# Sujets exclus
+# Ontologie
 
-## Réflexion...
+## info
 
-  - inclure l'aspect responsive dans frontEndLab?
+Information brute, non classée
+
+## idees
+
+## spec
+
+Métadata structurante permettant d'utiliser les donneés structurés
 
 ## expertise
 
-  - front-end => frontEndLab
+## blog
 
-##info
+# Flux de données
 
-  - codeIgniter => demoCodeIgniter
+  1. Entrer des données brutes dans info.md
+  - Organiser l'information
+  - Utiliser info pour monter des dossiers d'expertise dans  `expertise`
+  - Utiliser l'information organiser pour créer des articles dans `blog`
