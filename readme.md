@@ -58,5 +58,3 @@ Métadata structurante permettant d'utiliser les donneés structurés
   - Organiser l'information
   - Utiliser info pour monter des dossiers d'expertise dans  `expertise`
   - Utiliser l'information organiser pour créer des articles dans `blog`
-
-
