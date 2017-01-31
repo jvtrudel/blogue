@@ -1,6 +1,6 @@
-inFiles=preambule.md  general.md basics.md projectManagement.md branch.md merge.md fork.md
+inFiles=metadata.yml preambule.md  general.md basics.md projectManagement.md branch.md merge.md fork.md
 
-outName=CuisinerAvecGit.html
+html:
+	pandoc --chapters --toc -o CuisinerAvecGit.html $(inFiles) -N
 
-all:
-	pandoc --chapters --toc -o $(outName) $(inFiles) -N
+pdf: pandoc -t latex --chapters --toc -o CuisinerAvecGit.pdf $(inFiles) -N
