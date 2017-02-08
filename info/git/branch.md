@@ -1,6 +1,6 @@
 # Branches
 
-  - Les branches servent à faire des développement sans toucher à la branche principale. 
+  - Les branches servent à faire des développement sans toucher à la branche principale.
 
   - Permet de focuser son attention sur le dévellopement d'une fonctionalité.
   - Permet de mener des dévelloppements en parallèle.  
@@ -12,7 +12,7 @@ Voir également les sections suivantes:
 
 ## Création d'une branche
 
-### Création rapide 
+### Création rapide
 
     git checkout -b <nom de la nouvelle branche>
 
@@ -44,9 +44,15 @@ Voir également les sections suivantes:
 
 
 
+## recombinaison et nettoyage de branches
 
+### Rapatrier une branche de développement en nettoyant l'historique
 
+On a deux branche **dev** et **master**
 
+    git rebase -i master dev
+    git checkout master
+    git branch -d dev
 
 ## Astuces, bonnes pratiques et pièges à éviter
 
@@ -56,4 +62,4 @@ Voir également les sections suivantes:
   - Utiliser les branches lorsque l'intégrité du master est critique (par exemple, pour un travail avec des collaborateurs).
 
 
-## Ressources 
+## Ressources

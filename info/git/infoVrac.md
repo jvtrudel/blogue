@@ -1,3 +1,8 @@
+# Revue
+
+  - [Étude de cas: PEP comparant les différents SVC appliqué au développement de python](https://www.python.org/dev/peps/pep-0374/)
+  - [Migrating from hg.python.org to GitHub. Par: PEP](https://www.python.org/dev/peps/pep-0512/)
+
 
 # Branches
   - [importation de branche distantes](http://stackoverflow.com/questions/67699/clone-all-remote-branches-with-git)
