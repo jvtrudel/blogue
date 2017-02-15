@@ -28,6 +28,24 @@ Voir également les sections suivantes:
 
     git remote show origin
 
+
+## Travailler aevc des branches distantes
+
+### Voir les branches distantes
+
+    git branch -a
+
+### cloner localement une branche distante
+
+    git checkout -b local_branch_name origin/distant_branch_name
+
+
+### [Intégrer une branche appartenant à un autre fork](http://stackoverflow.com/questions/14383212/git-pulling-a-branch-from-another-repository)
+
+    git remote add fork <url of fork>
+    git fetch fork
+    git checkout -b fork_branch fork/<branch>
+
 ## Destruction d'une branche
 
 ### Destruction d'une branche locale
