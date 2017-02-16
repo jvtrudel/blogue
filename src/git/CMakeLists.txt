@@ -1,26 +1,14 @@
-cmake_minimum_required(VERSION 3.0)
-
-project(jvtrudel_git_documentation)
-
-find_package(Git)
-
-# get pandocology
-# problèmes à résoudres...
-#   - ne pas downloader à chaque fois
-#   - mettre dans le répertoire sources et non dans le build
-# solution1 :
-#    - Si le répertoire n'existe pas, on applique clone
-#    - si il existe, on pull
-  execute_process(COMMAND
-      ${GIT_EXECUTABLE} clone https://github.com/jeetsukumaran/cmake-pandocology.git ${CMAKE_CURRENT_SOURCE_DIR}/cmake-pandocology
-      )
-LIST(APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake-pandocology")
-
-include(pandocology)
+SET(PROJ_NAME "Cuisinez_avec_git")
+PROJECT(${PROJ_NAME})
 
 
-add_document(
-    docu.rtf
-    SOURCES fork.md
+SET(${PROJ_NAME}_DOCS basics.md branch.md)
 
+SET(${PROJ_NAME}_TEMPLATE "--template=${CMAKE_SOURCE_DIR}/templates/simple.tex")
+
+ADD_DOCUMENT(
+    ${PROJ_NAME}.pdf
+    SOURCES             ${${PROJ_NAME}_DOCS}
+    PANDOC_DIRECTIVES   ${PANDOC_PDF_CONFIG} ${${PROJ_NAME}_TEMPLATE}
+    PRODUCT_DIRECTORY   ${CMAKE_SOURCE_DIR}/doc
 )
