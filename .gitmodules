@@ -1,3 +1,6 @@
 [submodule "cmake/cmake-pandocology"]
 	path = cmake/cmake-pandocology
 	url = https://github.com/vgonisanz/cmake-pandocology.git
+[submodule "templates/github-markdown-css"]
+	path = templates/github-markdown-css
+	url = https://github.com/sindresorhus/github-markdown-css.git
