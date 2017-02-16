@@ -1,12 +1,11 @@
 # Description
 
-Références professionnelles pour le développement libre.
-
+Collection d'informations thématiques et quelques outils pour mieux s'y retrouver.
 ## Objectifs
 
   - Compiler de l'information à propos des technologies numériques
-  - Rendre réutilisable les recherches réaliser en cours de travail
-  - Écrire des articles sur une base journalière
+  - Rendre réutilisable les recherches réalisée en cours de travail
+  - Écrire des articles sur une base régulière
 
 ## Méthodologie
 
