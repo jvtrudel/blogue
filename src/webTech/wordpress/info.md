@@ -1,2 +1,1 @@
-  - [installation et configuration sur debian](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-debian-7)
-  - [anatomy des thèmes](https://yoast.com/wordpress-theme-anatomy/)
+
