@@ -21,18 +21,21 @@ Ou bien le demander par la suite:
 
 ## enlever un submodule d'un projet
 
-En supprimant le répertoire locale:
+### supprime la copie locale, mais conserver l'indexation du submodule
+
 
     git submodule deinit un_submodule    
     git rm un_submodule
 
-*attention: il ne faut pas laisser de slash à la fin de un_submodule*
+*attention:*
+  - il ne faut pas laisser de slash à la fin de un_submodule
 
-En conservant le répertoire local:
+### Supprime totalment le subrepo du projet
 
-    git rm --cached <asubmodule>
+    git rm <asubmodule>
     rm -rf .git/modules/<asubmodule>
 
+Pour
 
 ## webographie
   - [Documentation de la commande submodule](https://git-scm.com/docs/git-submodule)
